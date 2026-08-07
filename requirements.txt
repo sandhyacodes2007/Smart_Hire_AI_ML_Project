@@ -10,3 +10,4 @@ jupyter
 ipykernel
 nltk
 pdfplumber
+python-docx
