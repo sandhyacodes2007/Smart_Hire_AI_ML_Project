@@ -9,3 +9,5 @@ kaggle
 jupyter
 ipykernel
 nltk
+pdfplumber
+python-docx
